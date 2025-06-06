@@ -5,7 +5,7 @@
 iso_name="WireOS-dev"
 iso_label="WOS_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="WireOS"
-iso_application="WireOS testing"
+iso_application="WireOS dev"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="wire"
 buildmodes=('iso')
