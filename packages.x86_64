@@ -27,3 +27,5 @@ vulkan-nouveau
 lib32-vulkan-radeon
 lib32-vulkan-intel
 lib32-vulkan-nouveau
+memtest86+-efi
+memtest86+
