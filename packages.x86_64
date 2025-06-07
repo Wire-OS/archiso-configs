@@ -29,3 +29,6 @@ lib32-vulkan-intel
 lib32-vulkan-nouveau
 memtest86+-efi
 memtest86+
+networkmanager
+plasma-nm
+git
